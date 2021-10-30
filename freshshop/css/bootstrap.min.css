@@ -5,6 +5,10 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+.logo {
+    width: 10rem;
+}
+
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -224,9 +228,7 @@ figure {
 
 img {
     vertical-align: middle;
-    border-style: none;
-    width: 150px;
-    height: 150px;
+    border-style: none
 }
 
 svg:not(:root) {
