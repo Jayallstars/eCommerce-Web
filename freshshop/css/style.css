@@ -746,6 +746,8 @@ nav.navbar.bootsnav ul.nav li.megamenu-fw>a:hover {
 nav.navbar.bootsnav ul.navbar-nav li.dropdown ul.dropdown-menu li a {
     display: block;
     padding: 6px 25px;
+    font-size: 1rem;
+    font-weight: 900;
 }
 
 nav.navbar.bootsnav ul.navbar-nav li.dropdown ul.dropdown-menu li a:hover {}
